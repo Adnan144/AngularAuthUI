@@ -1,4 +1,5 @@
 # AngularAuthUI
+<<<<<<< HEAD
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.14.
 
@@ -25,3 +26,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+=======
+Creating First Angular Authentication with version 16 Project With dot net core Api 8
+>>>>>>> 74b94cce18c4de51e3d2932b93a21d008e982eeb
